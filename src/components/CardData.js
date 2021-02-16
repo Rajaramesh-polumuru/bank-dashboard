@@ -1,0 +1,51 @@
+const cCard = [
+  {
+    id: 1234702834353439,
+    name: "Masudur Rahman",
+    expireMonth: "03",
+    expireYear: 26,
+    balance: 3435.34,
+    currency: "£",
+  },
+  {
+    id: 1234343545462454,
+    name: "Masudur Rahman",
+    expireMonth: "03",
+    expireYear: 26,
+    balance: 3435.34,
+    currency: "£",
+  },
+  {
+    id: 1234343470283435,
+    name: "Masudur Rahman",
+    expireMonth: "03",
+    expireYear: 26,
+    balance: 3435.34,
+    currency: "£",
+  },
+  {
+    id: 1234863374453434,
+    name: "Masudur Rahman",
+    expireMonth: "03",
+    expireYear: 26,
+    balance: 3435.34,
+    currency: "£",
+  },
+  {
+    id: 1234702834353434,
+    name: "Masudur Rahman",
+    expireMonth: "03",
+    expireYear: 26,
+    balance: 3435.34,
+    currency: "£",
+  },
+  {
+    id: 1234702834353777,
+    name: "Masudur Rahman",
+    expireMonth: "03",
+    expireYear: 26,
+    balance: 3435.34,
+    currency: "£",
+  },
+];
+export default cCard;

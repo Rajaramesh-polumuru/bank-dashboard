@@ -1,0 +1,93 @@
+* {
+  margin: 0%;
+}
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@700&display=swap");
+body {
+  background-color: rgb(245, 246, 250);
+}
+.App {
+  font-family: "EB Garamond", serif;
+  height: 100%;
+}
+.sidenav {
+  height: 100%;
+  width: 100px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #251f72;
+  padding-top: 20px;
+}
+li {
+  color: beige;
+}
+.heading,
+.myTransactions,
+.cardsList {
+  margin-left: 100px;
+}
+.iconList {
+  padding-inline-start: 25px;
+}
+nav ul img {
+  padding: 15px;
+  padding-left: 0%;
+}
+
+#homeicon {
+  padding: 15px;
+  padding-top: 0%;
+}
+.adimg {
+  height: 200px;
+  width: 270px;
+  margin: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 15px;
+  background-color: white;
+}
+.send {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  margin-top: 10px;
+}
+.send h3 {
+  margin: 10px;
+  margin-left: 50px;
+  margin-top: 0%;
+}
+.boardCard h3 {
+  margin: 10px;
+  margin-left: 50px;
+}
+.board {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+}
+.dashItems {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.board {
+  height: 400px;
+  margin: 20px;
+  right: 0%;
+}
+.Myt {
+  display: flex;
+  flex-direction: column;
+}
+.Mytr {
+  margin: 20px;
+}
+.Myt h2 {
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+.heading h3 {
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: grey;
+}

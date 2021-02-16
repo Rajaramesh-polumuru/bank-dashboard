@@ -1,0 +1,39 @@
+.sendInput {
+  border: none;
+  border-bottom: 2px solid gray;
+  background-color: rgb(255, 255, 255);
+  width: max-content;
+}
+.sendInput:focus-visible {
+  outline: none;
+}
+.sendInputDiv {
+  display: flex;
+  margin: 5px;
+  background-color: rgb(255, 255, 255);
+}
+#sendBut {
+  border: none;
+  margin: 10px;
+  margin-left: 70px;
+  background-color: rgb(230, 42, 29);
+  height: 30px;
+  border-radius: 5px;
+  color: antiquewhite;
+  font-family: "EB Garamond", serif;
+}
+.sendOption {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 15px;
+}
+.sendOption p {
+  font-weight: normal;
+  color: rgb(167, 163, 163);
+}
+.sendOption h3 {
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 0);
+  margin-left: 15px;
+}
